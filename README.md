@@ -1,18 +1,3 @@
-# The Code Challenge 
-Welcome to Caspar Code Challenge! 
-
-You have already received the requirement for this little project.
-Please consider this repository as a boilerplate for the future enhancements.
-
-## TODO
-- [ ] Make sure the application works as expected.
-- [ ] Consider the performance.
-- [ ] If you're not familiar with React, feel free to replace it with your
-  own favorite js framework.
-- [ ] Follow best practices for code maintainability.
-
----
-
 ## Setup
 
 ### Prerequisites
