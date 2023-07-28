@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches the snapshot 1`] = `
+<div
+  className="card video"
+  data-testid="video-card"
+>
+  <video
+    className="video-player"
+    controls={true}
+    preload="none"
+  />
+  <div
+    className="font-bold text-xl mb-2"
+  />
+  <span
+    className="float-right inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+  />
+</div>
+`;
