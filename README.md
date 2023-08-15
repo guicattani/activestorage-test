@@ -1,9 +1,4 @@
-## Setup
-
-### Prerequisites
-
-- [Docker](https://www.docker.com/)
-- [Docker Compose](https://docs.docker.com/compose/)
+Rails ActiveStorage test with a React SPA and a Docker setup
 
 ### Installation
 If you're using an M1/2 Mac OS, please consider creating this environment variable:
